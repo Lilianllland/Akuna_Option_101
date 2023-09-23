@@ -1,0 +1,16 @@
+# Calculate the price of a stock
+
+S = 303 # current price
+r = 0.01 # interest rate
+t = 253/365 # time period in the unit of one year
+
+#Calculate the exponentiation
+
+base = e_value
+power = r * t
+result = base ** power
+print(result)
+1.0069555853441834
+
+S * result
+305.10754235928755
